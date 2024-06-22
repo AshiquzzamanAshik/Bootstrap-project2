@@ -1,0 +1,30 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    background-color: #FAFAFA;
+}
+
+.large-text{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 78px;
+}
+
+.btn{
+    background: #FE8C45;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 14px;
+    padding: 9px 35px;
+}
+
+.intext{
+    color: #8A47F6;
+}
